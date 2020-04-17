@@ -1,12 +1,14 @@
 ---
-title: "Buy me a coffee"
+title: "投币"
 permalink: "/buy-me-a-coffee.html"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
+如果您喜欢我的文章、视频，并且觉得它们有价值，我感到十分荣幸。我会更加努力给大家多多分享我的经验和建议！
 
-You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
 
-Thank you so much!
+非常感谢！
 
-<a class="btn btn-danger" href="https://www.wowthemes.net/donate/">Buy me a coffee</a>
+<div class=”col-md-3 text-right“>
+    <img alt=”打赏我一碗螺蛳粉“ src=”{{site.baseurl}}/zhifubao.jpg“ class=”rounded-circle“ height=”100“ width=”100“>
+</div>
+// <a class="btn btn-danger" href="https://www.wowthemes.net/donate/">打赏我一碗螺蛳粉</a>

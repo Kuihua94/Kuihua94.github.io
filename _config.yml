@@ -1,6 +1,6 @@
 # Site
 name: '快乐'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: '做期货的95后'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    qing:
+      name:           王卿
+      site:           https://kuihuaw.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "我是一个操盘匠，操盘本领强，我要把内外期市，炒得更漂亮！"
+      email:          476541530@qq.com
+      weixin:         Levi_wq
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    fei:
+      name:           王菲
+      site:           https://feiwang20.github.io
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "我是和王卿同志夺食的人。"
+      email:          feiwang.w@gmail.com
+      weixin:         Silvia--1988
 
 # Defaults
 defaults:
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: qing
       avatar: /assets/images/avatar1.jpg
 
   # all pages
