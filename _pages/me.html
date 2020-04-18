@@ -5,7 +5,7 @@ permalink: "/me.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
-    <div class="col-md-8">        
+    <div class="col-md-8">
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
                 <p class="excerpt">我是谁</p>
@@ -14,11 +14,11 @@ permalink: "/me.html"
                 <img alt="{{ site.authors.qing.name }}" src="{{site.baseurl}}/{{ site.authors.qing.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+        <!-- <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","qing" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
-            {% endfor %}
+            {% endfor %} -->
     </div>
 </div>
 </div>
